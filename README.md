@@ -31,6 +31,8 @@ $ python3 -m venv myenv
 
 $ source myenv/bin/activate
 
+$ pip install requests colorama
+
 $ gitclone https://github.com/sherangexcrew/git-scanner
 
 $ cd git-scanner
