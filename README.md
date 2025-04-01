@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://raw.githubusercontent.com/sherangexcrew/git-scanner/refs/heads/main/screenshot/20250401_202907.png?raw=true)
 
 # git-scanner
 
